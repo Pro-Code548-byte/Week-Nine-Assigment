@@ -5,7 +5,6 @@ let result = "";
 for (let i = 1; i <= count; i++) {
   result += char;
 }
-
 console.log(result);
 
 char = "_";
@@ -15,5 +14,4 @@ result = "";
 for (let i = 1; i <= count; i++) {
   result += char;
 }
-
 console.log(result);
